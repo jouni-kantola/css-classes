@@ -1,0 +1,25 @@
+{
+  "name": "css-classes",
+  "version": "1.0.0",
+  "description": "List CSS classes in text(s).",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test/css-classes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jouni-kantola/css-classes.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Jouni Kantola <jouni@kantola.se> (https://github.com/jouni-kantola)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jouni-kantola/css-classes/issues"
+  },
+  "homepage": "https://github.com/jouni-kantola/css-classes",
+  "devDependencies": {
+    "ava": "^0.12.0"
+  }
+}
